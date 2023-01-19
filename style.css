@@ -43,6 +43,9 @@ p {
     display: block;
     text-align: center;
   }
+  h1 {
+    font-size: 48px;
+  }
 }
 
 .navigation-links {
